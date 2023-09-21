@@ -2,6 +2,7 @@
   import svelteLogo from './assets/svelte.svg'
   import viteLogo from '/vite.svg'
 	import Board from './lib/Board.svelte';
+  console.log(import.meta.env);
 </script>
 
 <main>
